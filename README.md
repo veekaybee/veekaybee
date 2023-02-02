@@ -22,6 +22,8 @@ I work as a machine learning engineer. I have broad-ranging interests. In machin
 
 My current side project is [Viberary, which recommends you books based on vibe.](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 
+I take notes on what I learn [in my ML garden here.](http://vickiboykis.com/ml-garden/) 
+
 My preferred languages are: Python, Java, SQL, and if I have to, Scala and PHP. 
 
 I once ran an ML/data conference called [Normconf.](https://normconf.com/)
