@@ -3,7 +3,7 @@ I work as a machine learning engineer. I have broad-ranging interests. In machin
 
 My side project is [Viberary, which recommends you books based on vibe.](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 
-I wrote a paper about [what embeddings are.](https://vickiboykis.com/what_are_embeddings/). 
+I wrote a paper about [what embeddings are.](https://vickiboykis.com/what_are_embeddings/) 
 
 I take notes on what I learn [here.](http://vickiboykis.com/ml-garden/) 
 
