@@ -1,5 +1,5 @@
 ### Hi, I'm Vicki! 👋
-I'm a machine learning engineer. I work on personalization, recommendations, search, and building scalable distributed ML systems. I like [reverse-engineering neural nets](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698), [MLOps and production](https://vickiboykis.com/2020/06/09/getting-machine-learning-to-production/), and [machine learning systems](https://vicki.substack.com/p/what-we-talk-about-when-we-talk-about). I've worked with inference and eval of [large language models.](https://vickiboykis.com/2024/01/15/whats-new-with-ml-in-production/) Here's [a reading list I made.](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e) 
+I build scalable distributed machine learning systems in personalization, recommendations, and search. I like [reverse-engineering neural nets](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698), [MLOps and production](https://vickiboykis.com/2020/06/09/getting-machine-learning-to-production/), and [machine learning systems](https://vicki.substack.com/p/what-we-talk-about-when-we-talk-about). I've worked with inference and eval of [large language models.](https://vickiboykis.com/2024/01/15/whats-new-with-ml-in-production/) Here's [a reading list I made.](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e) 
 
 ## Projects (Reverse Chron): 
 
