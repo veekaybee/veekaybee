@@ -3,6 +3,7 @@ I build scalable distributed machine learning systems in personalization, recomm
 
 ## Projects (Reverse Chron): 
 
++ [Blog Tags](https://vickiboykis.com/2026/05/18/tagging-my-blog-posts-with-bertopic-and-llms/)
 + [GitFeed](https://github.com/veekaybee/gitfeed), streaming GitHub links using Bluesky Jetstream
 + [Lumigator](https://github.com/mozilla-ai/lumigator), evals for LLMs
 + [Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/), which recommended you books based on vibe.
